@@ -27,6 +27,7 @@ public class MenuApp {
 		System.out.println("     +---------------------------------+");
 		System.out.println();
 		System.out.println();
+		System.out.println("Enter the action code from the menu:");
 		ChoisMenu.getChoisMenu();
 	}
 
