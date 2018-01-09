@@ -8,7 +8,7 @@ public class MenuApp {
 		System.out.println("     +---------------------------------+");
 		System.out.println("     |                MENU             |");
 		System.out.println("     +---------------------------------+");
-		System.out.println("     |     1 Operation >               |");
+		System.out.println("     |     1 Operation                 |");
 		System.out.println("     |          1.0 View list          |");
 		System.out.println("     |          1.1 Add                |");
 		System.out.println("     |          1.2 Delete             |");
